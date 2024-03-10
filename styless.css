@@ -1,0 +1,14 @@
+body{
+	background-image:url(https://img.freepik.com/premium-vector/cute-blue-pastel-gingham-plaid-tartan-checkered-pattern-background-perfect-wallpaper_565280-387.jpg);
+
+.table{
+	table-layout: center;
+}
+
+.logo{
+	height: 70px;
+}
+
+.about{
+	padding-right: 40px;
+}
